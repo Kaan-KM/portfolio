@@ -1,3 +1,1 @@
-# sample..
-Created with CodeSandbox
-not a real project just a sample.
+link : https://or67k.csb.app/
