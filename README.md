@@ -1,1 +1,1 @@
-link : https://or67k.csb.app/
+link : https://mowto.csb.app/
